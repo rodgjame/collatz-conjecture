@@ -1,0 +1,24 @@
+{
+  "name": "collatz-conjecture",
+  "version": "1.0.0",
+  "description": "A simple package to verify if a number satisfies the Collatz Conjecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodgjame/collatz-conjecture.git"
+  },
+  "keywords": [
+    "math",
+    "collatz",
+    "conjecture"
+  ],
+  "author": "rodgjame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodgjame/collatz-conjecture/issues"
+  },
+  "homepage": "https://github.com/rodgjame/collatz-conjecture#readme"
+}
